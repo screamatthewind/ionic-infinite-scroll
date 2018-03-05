@@ -1,0 +1,8 @@
+{
+  "name": "ionic-infinite-scroll",
+  "app_id": "a5e5fe64",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
